@@ -1,0 +1,13 @@
+Hurrah This file come with Ajax!
+
+Explanation: When the query is sent from the JavaScript to the PHP file, the following happens:
+
+PHP opens a connection to a MySQL server
+The correct person is found
+An HTML table is created, filled with data, and sent back to the "txtHint" placeholder
+
+Explanation: When the query is sent from the JavaScript to the PHP file, the following happens:
+
+PHP opens a connection to a MySQL server
+The correct person is found
+An HTML table is created, filled with data, and sent back to the "txtHint" placeholder
